@@ -1,1 +1,1 @@
-# Bank-Management-Syatem
+# Bank-Management-System
